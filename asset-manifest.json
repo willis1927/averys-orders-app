@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/averys-orders-app/static/css/main.f855e6bc.css",
+    "main.js": "/averys-orders-app/static/js/main.de2d4e82.js",
+    "static/js/453.ed9203fb.chunk.js": "/averys-orders-app/static/js/453.ed9203fb.chunk.js",
+    "static/media/logo.svg": "/averys-orders-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/averys-orders-app/index.html",
+    "main.f855e6bc.css.map": "/averys-orders-app/static/css/main.f855e6bc.css.map",
+    "main.de2d4e82.js.map": "/averys-orders-app/static/js/main.de2d4e82.js.map",
+    "453.ed9203fb.chunk.js.map": "/averys-orders-app/static/js/453.ed9203fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.de2d4e82.js"
+  ]
+}
